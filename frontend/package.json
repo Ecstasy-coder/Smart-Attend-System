@@ -1,0 +1,19 @@
+{
+  "name": "frontend",
+  "private": true,
+  "scripts": {
+    "dev": "cd \"React app\" && npm run dev",
+    "build": "cd \"React app\" && npm run build",
+    "preview": "cd \"React app\" && npm run preview",
+    "install:frontend": "cd \"React app\" && npm install"
+  },
+  "dependencies": {
+    "axios": "^1.16.1",
+    "react": "^19.x",
+    "react-dom": "^19.x",
+    "react-webcam": "^7.2.0"
+  },
+  "devDependencies": {
+    "vite": "^7.x"
+  }
+}
