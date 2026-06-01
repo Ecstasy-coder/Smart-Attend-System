@@ -1,0 +1,16 @@
+{
+    "employeeId": "EMP001",
+    "date": "2026-05-30",
+    "activeSeconds": 261,
+    "idleSeconds": 1210,
+    "productivityScore": 17.74,
+    "trackedApps": [
+        "VS Code",
+        "Chrome",
+        "Excel"
+    ],
+    "trackedUrls": [
+        "github.com",
+        "stackoverflow.com"
+    ]
+}
